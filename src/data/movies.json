@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 3,
+    "title": "Gladiator",
+    "year": 2005,
+    "genre": "History"
+  },
+  {
+    "id": 4,
+    "title": "Hobbit",
+    "year": 2001,
+    "genre": "Biology"
+  },
+  {
+    "id": 5,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action"
+  },
+  {
+    "id": 6,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Romance"
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 8,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime"
+  },
+  {
+    "id": 9,
+    "title": "Avatar",
+    "year": 2009,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 10,
+    "title": "Joker",
+    "year": 2019,
+    "genre": "Drama"
+  },
+  {
+    "id": 11,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Adventure"
+  },
+  {
+    "id": 12,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama"
+  },
+  {
+    "id": 13,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Action"
+  },
+  {
+    "id": 14,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama"
+  }
+]

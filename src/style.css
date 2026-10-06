@@ -2,6 +2,44 @@ body{
     overflow-y: scroll;
 }
 
+.MovieForm {
+  max-width: 480px;
+  margin: 24px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.MovieForm label,
+.MovieForm fieldset {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.MovieForm fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.GenreInput {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.GenreInput input {
+  flex: 1;
+}
+
+.MovieForm button {
+  min-height: 36px;
+  cursor: pointer;
+}
 
 .Buttons{
    display: flex;
@@ -49,6 +87,31 @@ body{
 .Card button:hover{
     transform: translateY(-4px);
     transform:scale(1.1);
+}
+
+.Rating {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Star {
+  background: none;
+  border: none;
+  font-size: 50px;
+  color: #e4e3e3;
+  cursor: pointer;
+  
+}
+
+.Star:hover {
+  color: black;
+}
+
+.Star.active {
+  color: black;
 }
 
 
